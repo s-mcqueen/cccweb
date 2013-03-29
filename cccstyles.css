@@ -1,0 +1,30 @@
+body{
+    margin: 0px;
+}
+
+#headerdiv{
+    margin-top: 100px;
+    height: 300px;
+    width: 100%;
+    background-color: #DDD;
+    border: 1px solid #AAA;
+}
+
+.titles{
+    margin: 0px;
+    font-family: georgia;
+    font-weight: normal;
+    font-style: normal;
+    text-align: center;
+    color: #333;
+}
+
+#main{
+    font-size: 80px;
+    padding-top: 70px;
+}
+
+#subtitle{
+    padding-top: 10px;
+    font-size: 40px;
+}
