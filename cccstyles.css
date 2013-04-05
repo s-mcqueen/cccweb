@@ -74,6 +74,19 @@ body{
     height: 400px;
 }
 
+#left-col{
+    width: 50%;
+    height: 900px;
+    float: left;
+    background-color: red;
+}
+
+#right-col{
+    width: 50%;
+    height: 900px;
+    float: right;
+    background-color: yellow;
+}
 
 .titles{
     margin: 0px;
