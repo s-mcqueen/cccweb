@@ -54,9 +54,11 @@ body{
     border-radius:3px; 
 }
 
+
 #sticky_nav ul li a:hover, #sticky_nav ul li a.selected { 
     color:#fff; 
-    background:#111; }
+    background:#111; 
+}
 
 #nav-container{
 
@@ -66,7 +68,15 @@ body{
 #elevator{
     background-color: green;
     height: 300px;
+    padding-top: 50px;
+}
 
+#pitch{
+    font-weight: 100;
+    text-align: center;
+    font-family: "Helvetica Neue", Helvetica;
+    color: white;
+    text-rendering: optimizeLegibility;
 }
 
 #three-pictures{
